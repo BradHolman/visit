@@ -1,0 +1,70 @@
+font-family: 'Amarante', cursive;
+
+
+
+html {
+    box-sizing:border-box;
+    max-width: 1500px
+}
+
+*, *:before, *:after {
+    box-sizing:inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.container {
+  padding-left: 10px;
+  display: block;
+  max-width: 1200px;
+  min-width: 600px;
+  font-family:Amarante;
+  font-size: 40px;
+
+}
+.head {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.logo {
+ width: 500px;
+ height: 100px;
+}
+
+.visit {
+  margin: 0;
+  padding: 0px;
+  margin-top: -400px;
+  text-align: center;
+  color: #FCF1B2;
+  font-size: 200px;
+  margin-bottom: 200px;
+}
+
+.map {
+  margin: 0;
+  padding: 0px;
+
+}
+
+.address{
+  margin: 25px;
+  background-color: #FDEFB2;
+  padding: 25px;
+}
+
+.num{
+  background: none;
+
+
+}
+
+.number{
+  color: #E87D2E;
+  text-align: left;
+  padding-right: 220px;
+}
